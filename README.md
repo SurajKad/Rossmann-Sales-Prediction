@@ -1,2 +1,2 @@
-# -Rossmann-Sales-Prediction
+#Rossmann-Sales-Prediction
 (Alma Better Project 2)
